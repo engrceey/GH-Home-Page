@@ -269,7 +269,8 @@ main section .review {
   padding: 10px !important;
   border: none !important;
 }
-.site-footer {
+
+/* .site-footer {
   background-color: #26272b;
   padding: 45px 0 20px;
   font-size: 15px;
@@ -406,4 +407,4 @@ main section .review {
     margin-right: 0;
     font-weight: 600;
   }
-}
+} */
