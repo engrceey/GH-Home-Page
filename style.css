@@ -106,6 +106,9 @@ header .overlay {
   font-size: 20px;
 }
 
+#home-search {
+  width: 50%;
+}
 #home-search .btn-light,
 #home-search .btn-secondary {
   width: auto;
@@ -261,6 +264,8 @@ main section {
   margin-top: 4%;
   display: flex;
   justify-content: space-evenly;
+  width: 98%;
+  align-content: center;
 }
 
 main section .review {
